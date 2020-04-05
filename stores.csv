@@ -1,0 +1,69 @@
+name,type,zipCode,neighborhood,councilDistrict,policeDistrict,Location 1,Area,9 am,safe/in between/unsafe,10 am,safe/in between/unsafe,11 am,safe/in between/unsafe,12 pm,safe/in between/unsafe,13 pm,safe/in between/unsafe,14 pm,safe/in between/unsafe,15 pm,safe/in between/unsafe,16 pm,safe/in between/unsafe,17 pm,safe/in between/unsafe,18 pm,safe/in between/unsafe,19 pm,safe/in between/unsafe,20 pm,safe/in between/unsafe,21 pm,safe/in between/unsafe
+SAVE-A-LOT,Limited Supermarket,21217,Bolton Hill,11,CENTRAL,"250 MCMECHEN st
+Baltimore, MD","15,635.30",453,unsafe,457,unsafe,182,safe,46,safe,152,safe,300,unsafe,182,safe,423,unsafe,147,safe,283,unsafe,18,safe,415,unsafe,484,unsafe
+ALDI,Limited Supermarket,21215,Ashburton,6,NORTHWESTERN,"3601 COLD SPRING LN
+Baltimore, MD","18,518.50",440,unsafe,211,safe,259,safe,21,safe,310,in between,339,unsafe,348,unsafe,422,unsafe,250,safe,333,unsafe,22,safe,71,safe,421,unsafe
+ALDI     (A.K.A. 3000 ATCO AVENUE),Limited Supermarket,21230,Morrell Park,10,SOUTHWESTERN,"3140 WASHINGTON BLVD
+Baltimore, MD","18,043.71",165,safe,54,safe,122,safe,368,unsafe,226,safe,363,unsafe,339,unsafe,13,safe,432,unsafe,250,safe,412,unsafe,270,safe,294,safe
+"SAFEWAY, INC.",Full Supermarket,21218,Charles Village,12,NORTHERN,"2401 CHARLES ST
+Baltimore, MD","43,698.59",476,safe,310,safe,226,safe,360,safe,209,safe,165,safe,21,safe,201,safe,11,safe,345,safe,15,safe,462,safe,248,safe
+"SANTONI'S, INC.",Small Supermarket,21224,Baltimore Highlands,2,SOUTHEASTERN,"3800 LOMBARD ST
+Baltimore, MD","23,969.67",434,unsafe,221,safe,278,safe,300,safe,315,safe,297,safe,210,safe,310,safe,143,safe,461,unsafe,321,safe,67,safe,442,unsafe
+SHOPPERS FOOD & PHARMACY # 7567,Full Supermarket,21224,Pulaski Industrial Area,2,SOUTHEASTERN,"6500 EASTERN AVE
+Baltimore, MD","55,697.78",310,safe,421,safe,254,safe,245,safe,485,safe,201,safe,107,safe,399,safe,5,safe,366,safe,231,safe,430,safe,113,safe
+SAVE-ON-FOOD SUPERMARKET,Limited Supermarket,21225,Brooklyn,10,SOUTHERN,"413 PATAPSCO AVE
+Baltimore, MD","1,141.64",442,unsafe,145,unsafe,243,unsafe,29,unsafe,216,unsafe,355,unsafe,389,unsafe,5,safe,156,unsafe,328,unsafe,308,unsafe,20,unsafe,270,unsafe
+GIANT FOOD STORE # 317,Full Supermarket,21229,Hunting Ridge,8,SOUTHWESTERN,"4624 EDMONDSON AVE
+Baltimore, MD","37,243.19",139,safe,236,safe,50,safe,139,safe,213,safe,222,safe,163,safe,151,safe,479,safe,128,safe,188,safe,212,safe,452,safe
+SAM'S CLUB # 4771,Limited Supermarket,21230,Port Covington,10,SOUTHERN,"2601 PORT COVINGTON dr
+Baltimore, MD","128,181.72",462,safe,170,safe,279,safe,143,safe,309,safe,422,safe,230,safe,95,safe,458,safe,86,safe,156,safe,371,safe,72,safe
+"ALDI,  INC.",Limited Supermarket,21224,Ellwood Park/Monument,1,SOUTHEASTERN,"3250 FAYETTE ST
+Baltimore, MD","18,073.64",16,safe,412,unsafe,368,unsafe,258,safe,19,safe,448,unsafe,208,safe,472,unsafe,46,safe,269,safe,41,safe,157,safe,335,unsafe
+SAFEWAY   (STORE #1481),Full Supermarket,21224,Canton,1,SOUTHEASTERN,"2610 BOSTON ST
+Baltimore, MD","48,228.12",397,safe,207,safe,59,safe,301,safe,139,safe,117,safe,379,safe,456,safe,77,safe,146,safe,53,safe,233,safe,171,safe
+GIANT FOOD STORE #124,Full Supermarket,21211,Hampden,14,NORTHERN,"711 40TH ST
+Baltimore, MD","15,266.00",482,unsafe,123,safe,85,safe,141,safe,37,safe,204,safe,390,unsafe,119,safe,236,safe,356,unsafe,200,safe,132,safe,451,unsafe
+SUPERFRESH,Full Supermarket,21211,Hoes Heights,14,NORTHERN,"1020 41ST ST
+Baltimore, MD","44,960.57",398,safe,305,safe,122,safe,79,safe,266,safe,34,safe,374,safe,382,safe,475,safe,29,safe,274,safe,288,safe,147,safe
+GIANT FOODS #303,Full Supermarket,21218,Better Waverly,14,NORTHERN,"601 33RD ST
+Baltimore, MD","58,312.66",495,safe,175,safe,229,safe,371,safe,176,safe,55,safe,8,safe,50,safe,176,safe,152,safe,352,safe,10,safe,171,safe
+SAVE-A-LOT,Limited Supermarket,21213,Belair-Edison,13,NORTHEASTERN,"4001 ERDMAN AVE
+Baltimore, MD","14,237.34",80,safe,61,safe,409,unsafe,358,unsafe,384,unsafe,306,unsafe,155,safe,465,unsafe,453,unsafe,419,unsafe,18,safe,256,unsafe,412,unsafe
+WHOLE FOODS MARKET,Full Supermarket,21209,Sabina-Mattfeldt,5,NORTHERN,"1330 SMITH AVE
+Baltimore, MD","19,633.41",452,unsafe,329,in between,390,unsafe,254,safe,424,unsafe,351,unsafe,29,safe,240,safe,260,safe,110,safe,119,safe,211,safe,318,safe
+MARS SUPER MARKETS INC.,Small Supermarket,21239,Loch Raven,4,NORTHEASTERN,"1700 NORTHERN PKWY
+Baltimore, MD","33,410.92",297,safe,237,safe,123,safe,446,safe,66,safe,185,safe,269,safe,310,safe,338,safe,442,safe,147,safe,224,safe,391,safe
+"SAFEWAY STORES, INC. #1153",Full Supermarket,21223,Washington Village,9,SOUTHERN,"1205 PRATT ST
+Baltimore, MD","55,695.98",318,safe,474,safe,220,safe,441,safe,496,safe,96,safe,484,safe,245,safe,280,safe,392,safe,291,safe,485,safe,451,safe
+GIANT FOOD STORE #145,Full Supermarket,21206,Frankford,2,NORTHEASTERN,"5150 SINCLAIR LN
+Baltimore, MD","51,860.46",107,safe,56,safe,175,safe,37,safe,45,safe,82,safe,41,safe,59,safe,482,safe,345,safe,322,safe,312,safe,140,safe
+BI-RITE,Limited Supermarket,21206,Glenham-Belford,2,NORTHEASTERN,"5950 BELAIR RD
+Baltimore, MD","25,161.10",164,safe,5,safe,220,safe,261,safe,468,unsafe,349,safe,367,safe,330,safe,162,safe,252,safe,48,safe,299,safe,105,safe
+EDDIE'S SUPERMARKET,Small Supermarket,21218,Charles Village,14,NORTHERN,"3117 ST PAUL ST
+Baltimore, MD","6,687.26",67,safe,221,unsafe,64,safe,64,safe,425,unsafe,391,unsafe,173,unsafe,396,unsafe,275,unsafe,418,unsafe,70,safe,241,unsafe,325,unsafe
+SUPER FRESH FOOD MARKETS #813,Full Supermarket,21223,Millhill,9,SOUTHWESTERN,"2495 FREDERICK AVE
+Baltimore, MD","34,845.81",351,safe,39,safe,251,safe,215,safe,387,safe,407,safe,73,safe,280,safe,293,safe,494,safe,454,safe,47,safe,399,safe
+FOOD KING SUPERMARKET,Small Supermarket,21227,Cherry Hill,10,SOUTHERN,"3400 ANNAPOLIS RD
+Baltimore, MD","34,663.43",174,safe,181,safe,30,safe,108,safe,242,safe,497,safe,362,safe,119,safe,414,safe,314,safe,72,safe,264,safe,319,safe
+SAVE-A-LOT,Limited Supermarket,21230,Washington Village,11,SOUTHERN,"717 WASHINGTON BLVD
+Baltimore, MD","18,830.12",18,safe,430,unsafe,434,unsafe,112,safe,451,unsafe,16,safe,182,safe,13,safe,330,unsafe,11,safe,228,safe,106,safe,285,safe
+FOOD KING SUPERMARKET,Small Supermarket,21215,Seton Business Park,5,NORTHWESTERN,"5700 WABASH AVE
+Baltimore, MD","49,601.86",347,safe,217,safe,496,safe,31,safe,458,safe,138,safe,286,safe,226,safe,130,safe,418,safe,315,safe,419,safe,88,safe
+SAVE-A-LOT,Limited Supermarket,21215,Reisterstown Station,5,NORTHWESTERN,"6836 REISTERSTOWN RD
+Baltimore, MD","16,608.33",153,safe,187,safe,180,safe,106,safe,242,safe,10,safe,394,unsafe,473,unsafe,170,safe,435,unsafe,494,unsafe,264,safe,230,safe
+SAVE-A-LOT,Limited Supermarket,21218,Charles North,12,NORTHERN,"2008 MARYLAND AVE
+Baltimore, MD","16,832.49",207,safe,30,safe,189,safe,268,safe,28,safe,29,safe,423,unsafe,278,safe,472,unsafe,147,safe,198,safe,330,unsafe,53,safe
+"SAFEWAY, INC. # 1513",Full Supermarket,21214,Beverly Hills,3,NORTHEASTERN,"4401 HARFORD RD
+Baltimore, MD","39,763.10",94,safe,498,safe,137,safe,226,safe,270,safe,249,safe,372,safe,47,safe,41,safe,375,safe,349,safe,259,safe,77,safe
+EDDIE'S SUPER MARKET,Small Supermarket,21210,Wyndhurst,6,NORTHERN,"5113 ROLAND AVE
+Baltimore, MD","12,228.63",155,safe,103,safe,346,unsafe,49,safe,209,unsafe,320,unsafe,13,safe,52,safe,2,safe,448,unsafe,287,unsafe,138,safe,84,safe
+WHOLE FOODS MARKET,Full Supermarket,21202,Inner Harbor,1,SOUTHEASTERN,"1001 FLEET ST
+Baltimore, MD","28,015.88",393,safe,495,unsafe,90,safe,284,safe,184,safe,113,safe,445,safe,96,safe,357,safe,337,safe,400,safe,100,safe,254,safe
+FOOD KING,Small Supermarket,21239,Loch Raven,4,NORTHEASTERN,"5830 HILLEN RD
+Baltimore, MD","23,409.29",49,safe,207,safe,427,unsafe,263,safe,36,safe,236,safe,381,safe,343,safe,272,safe,288,safe,230,safe,200,safe,443,unsafe
+GIANT FOOD # 397,Full Supermarket,21215,Reisterstown Station,5,NORTHWESTERN,"6620 REISTERSTOWN RD
+Baltimore, MD","81,022.21",62,safe,104,safe,472,safe,120,safe,92,safe,368,safe,422,safe,19,safe,437,safe,38,safe,284,safe,258,safe,217,safe
+HIGHLANDTOWN  GROCERY  &  DELI,Small Supermarket,21224,Baltimore Highlands,1,SOUTHEASTERN,"19 HIGHLAND AVE
+Baltimore, MD","5,805.37",192,unsafe,141,unsafe,126,unsafe,258,unsafe,440,unsafe,294,unsafe,22,safe,415,unsafe,392,unsafe,134,unsafe,84,safe,110,unsafe,391,unsafe
+SHOPPERS,Full Supermarket,21230,Riverside,10,SOUTHERN,"900 Fort Ave
+Baltimore, MD","42,547.20",267,safe,78,safe,433,safe,355,safe,51,safe,74,safe,475,safe,138,safe,262,safe,381,safe,239,safe,191,safe,115,safe
