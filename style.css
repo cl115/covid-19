@@ -1,0 +1,603 @@
+h1, h2, h3, h4, h5, h6, button1, .navbar-brand, .nav-link dropdown-toggle, .navbar-nav, .dropdown-menu, .dropdown-item {
+    font-family: 'Sen', sans-serif
+    !important;
+}
+
+.navbar-brand{
+  color:#ffee9d
+  !important;
+}
+
+a, .nav-item{
+  font-size: 75%;
+  margin-top: -20px;
+  margin-bottom: -20px;
+  padding: 15px;
+  color: #ffee9d
+  !important;
+}
+
+p, div{
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    font-size:80%
+    !important;
+}
+
+body, html {
+    height: 95%;
+}
+
+/* The hero image */
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("background.jpg");
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.responsive {
+  width: auto;
+  max-width: 108.1%;
+  height: auto;
+  background-size:cover;
+}
+
+.image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("groceries.jpg");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  font-size: 100px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
+body {
+  font-family: Arial;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+  font-family: 'Corben', Georgia, Times, serif
+
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown:hover .dropdown-menu, .btn-group:hover .dropdown-menu{
+      display: block;
+  }
+  .dropdown-menu{
+      margin-top: 0;
+  }
+  .dropdown-toggle{
+      margin-bottom: 2px;
+  }
+  .navbar .dropdown-toggle, .nav-tabs .dropdown-toggle{
+      margin-bottom: 0;
+  }
+
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  background: #252525;
+}
+.container {
+  position: absolute;
+ 
+  top: 70%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 300px;
+  height: 100px;
+}
+.container .search {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  background:#a7c5ff;
+  border-radius: 50%;
+  transition: all 1s;
+  z-index: 4;
+  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.4);
+}
+.container .search:hover {
+  cursor: pointer;
+}
+.container .search::before {
+  content: "";
+  position: absolute;
+  margin: auto;
+  top: 22px;
+  right: 0;
+  bottom: 0;
+  left: 22px;
+  width: 12px;
+  height: 2px;
+  background: white;
+  transform: rotate(45deg);
+  transition: all 0.5s;
+}
+.container .search::after {
+  content: "";
+  position: absolute;
+  margin: auto;
+  top: -5px;
+  right: 0;
+  bottom: 0;
+  left: -5px;
+  width:20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid white;
+  transition: all 0.5s;
+}
+.container input {
+  font-family: 'Sen', sans-serif;
+  font-size: 12pt;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  outline: none;
+  border: none;
+  background: #ffee9d;
+  color: #4863A0;
+  text-shadow: 0 0 10px #ffee9d;
+  padding: 0 80px 0 20px;
+  border-radius: 30px;
+  box-shadow: 0 0 25px 0 #ffee9d, 0 20px 25px 0 rgba(0, 0, 0, 0.2);
+  transition: all 1s;
+  opacity: 0;
+  z-index: 5;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+}
+
+.container input:hover {
+  cursor: pointer;
+}
+.container input:focus {
+  width: 300px;
+  opacity: 1;
+  cursor: text;
+}
+.container input:focus ~ .search {
+  right: -250px;
+  background: #4863A0;
+  z-index: 6;
+}
+.container input:focus ~ .search::before {
+  top: 0;
+  left: 0;
+  width: 25px;
+}
+.container input:focus ~ .search::after {
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 2px;
+  border: none;
+  background: white;
+  border-radius: 0%;
+  transform: rotate(-45deg);
+}
+.container input::placeholder {
+  color: #a0a0a0;
+  opacity: 1;
+  /*font-weight: bolder;*/
+}
+
+.card {
+  border: 1px solid #d3d3d3;
+  border-radius: .25rem;
+}
+
+.bg-img {
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+  background-color: #ccc;
+}
+
+.content {
+  padding: 15px;
+}
+
+button {
+  background-color: transparent;
+  border: 1px solid #2196F3;
+  padding: .5rem 1rem;
+  cursor: pointer;
+  border-radius: .25rem;
+}
+
+
+.card {
+  border: 1px solid #d3d3d3;
+  border-radius: .25rem;
+
+}
+
+.bg-img {
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+  background-color: #ccc;
+}
+
+.content {
+  padding: 15px;
+}
+
+button1 {
+  background-color: transparent;
+  border: 1px solid #2196F3;
+  padding: .5rem 1rem;
+  cursor: pointer;
+  border-radius: .25rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-rows:auto;
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+}
+
+/*
+
+Template 2107 New Spot
+
+http://www.tooplate.com/view/2107-new-spot
+
+COLOR CODES
+
+	Primary (Pink):   #CC0064
+	Secondary (Blue): #0095BF
+  
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #eee;
+  color: #6c6c6c;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  overflow-x: hidden;
+}
+
+.tm-container {
+  background-color: white;
+  max-width: 1400px;
+}
+
+.tm-site-title {
+  color: #cc0064;
+  font-size: 3rem;
+}
+
+.tm-site-subtitle {
+  color: #0095bf;
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.tm-section-1 {
+  height: 750px;
+  background-image: url(spot-bg-01.jpg);
+  background-size: cover;
+  -webkit-clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
+  clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
+  /* background-position: center -95px; */
+  background-repeat: no-repeat;
+  padding-top: 75px;
+}
+
+.tm-section-3 {
+  height: 790px;
+  background-image: url(spot-bg-02.jpg);
+  background-size: cover;
+  -webkit-clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
+  clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.tm-color-primary {
+  color: #cc0064;
+}
+
+.tm-color-secondary {
+  color: #0095bf;
+}
+
+.tm-btn-primary {
+  color: white;
+  background-color: #cc0064;
+}
+
+.tm-btn-primary:hover,
+.tm-btn-primary:focus {
+  background-color: #f21b85;
+}
+
+.tm-btn-secondary {
+  color: white;
+  background-color: #0095bf;
+}
+
+.tm-btn-secondary:hover,
+.tm-btn-secondary:focus {
+  background-color: #44cbf1;
+}
+
+.tm-bg-circle-white {
+  background-color: white;
+  color: #6c6c6c;
+  padding: 75px 81px 75px 90px;
+  border-radius: 50%;
+  width: 550px;
+  height: 550px;
+}
+
+.tm-bg-circle-pad-2 {
+  padding-left: 120px;
+}
+
+p,
+ul {
+  line-height: 2;
+  font-weight: 300;
+}
+
+ul {
+  margin: 0;
+}
+ul.dashed {
+  list-style-type: none;
+}
+ul.dashed > li {
+  text-indent: -5px;
+}
+ul.dashed > li:before {
+  content: "-";
+  margin-right: 5px;
+  text-indent: -5px;
+}
+
+.btn {
+  padding: 10px 30px;
+  font-size: 1.15rem;
+  font-weight: 300;
+  border-radius: 8px;
+}
+
+a.btn:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.tm-flex-center-v {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.tm-text-container {
+  max-width: 420px;
+}
+
+.tm-circle-img {
+  width: 550px;
+}
+
+.tm-circle-img-container {
+  text-align: right;
+}
+
+.tm-contact-form {
+  max-width: 280px;
+}
+
+.form-control {
+  border-radius: 0;
+  border: none;
+  border-bottom: 1px solid #cc0064;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #cc0064;
+  border-width: 2px;
+}
+
+.tm-send-btn {
+  border-radius: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.tm-footer-link {
+  color: #6c6c6c;
+}
+
+.tm-footer-link:hover,
+.tm-footer-link:focus {
+  color: #cc0064;
+  text-decoration: none;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: none;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1050px;
+  }
+}
+
+@media (max-width: 992px) {
+  .tm-bg-circle-white {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .tm-section-left {
+    margin: 50px auto;
+  }
+
+  .tm-circle-img-container {
+    text-align: center;
+  }
+
+  .tm-contact-form {
+    max-width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .tm-contact-right {
+    margin-bottom: 50px;
+  }
+
+  .tm-footer-text {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  .tm-bg-circle-white {
+    border-radius: 100px;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  .tm-section-1,
+  .tm-section-3 {
+    height: auto;
+  }
+
+  .tm-section-1 {
+    padding-bottom: 90px;
+    -webkit-clip-path: polygon(0px 0px, 100% 0px, 100% 92%, 0px 100%);
+    clip-path: polygon(0px 0px, 100% 0px, 100% 92%, 0px 100%);
+  }
+
+  .tm-section-3 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    -webkit-clip-path: polygon(0px 0px, 100% 8%, 100% 92%, 0px 100%);
+    clip-path: polygon(0px 0px, 100% 8%, 100% 92%, 0px 100%);
+  }
+
+  .tm-circle-img-container {
+    margin-bottom: 30px;
+  }
+}
+
